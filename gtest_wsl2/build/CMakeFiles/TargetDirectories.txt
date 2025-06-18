@@ -1,0 +1,3 @@
+/home/nadee/gtest_wsl2/build/CMakeFiles/hw_tests.dir
+/home/nadee/gtest_wsl2/build/CMakeFiles/edit_cache.dir
+/home/nadee/gtest_wsl2/build/CMakeFiles/rebuild_cache.dir

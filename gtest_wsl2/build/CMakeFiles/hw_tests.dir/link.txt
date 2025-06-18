@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hw_tests.dir/test_device_controller.cpp.o -o hw_tests  /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgmock.a -lpthread /usr/lib/x86_64-linux-gnu/libgtest.a 
