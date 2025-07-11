@@ -1,0 +1,13 @@
+cxx_binary(
+    name = "hello_app",
+    srcs = ["hello.c"],
+    deps = [":utils_lib"],
+)
+
+cxx_library(
+    name = "utils_lib",
+    srcs = ["utils/utils.c"],
+    headers = ["utils/utils.h"],
+    include_directories = ["utils"],
+)
+

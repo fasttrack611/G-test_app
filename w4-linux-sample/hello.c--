@@ -1,0 +1,10 @@
+// hello.c
+#include <stdio.h>
+#include "utils/utils.h"
+
+int main() {
+    printf("Welcome to W4 Linux with Buck2!\n");
+    print_utility_message();
+    return 0;
+}
+
